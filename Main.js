@@ -1,5 +1,6 @@
 //libraries and Imports
 
+<<<<<<< HEAD
 //Initialize variables
 
 var balance = 100;
@@ -13,3 +14,6 @@ var cashPrize = 500;
 //Rocket Function
 
 //Output Results
+=======
+// testing testing
+>>>>>>> perry
